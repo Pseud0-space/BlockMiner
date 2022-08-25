@@ -1,4 +1,4 @@
-public class blockMiner {
+public class BlockMiner {
     static final String TRANSACTION = "Hello World\nThis is a Test transaction";
     static final String PREV_HASH = "0".repeat(64);
     static final int BLOCK_NO = 1;
