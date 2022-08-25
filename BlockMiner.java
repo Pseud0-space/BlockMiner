@@ -1,5 +1,5 @@
 public class BlockMiner {
-    static final String TRANSACTION = "Hello World\nThis is a Test transaction";
+    static final String TRANSACTION = "TRANSACTIONS/TOKENS HERE";
     static final String PREV_HASH = "0".repeat(64);
     static final int BLOCK_NO = 1;
     static final int ZEROES = 8;
